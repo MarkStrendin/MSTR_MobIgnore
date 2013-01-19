@@ -4,8 +4,30 @@ version: 0.1
 author: Mark Strendin
 description: Allows a player to frolic among enemies, unnoticed
 permissions:
-  MSTR_MobIgnore.ignoreall:   
+  MSTR_MobIgnore.all:   
    default: op
-  MSTR_MobIgnore.ignorecreeper:   
+  MSTR_MobIgnore.creeper:   
+   default: op   
+  MSTR_MobIgnore.enderman:   
+   default: op      
+  MSTR_MobIgnore.ghast:   
+   default: op      
+  MSTR_MobIgnore.enderdragon:   
+   default: op      
+  MSTR_MobIgnore.cavespider:   
+   default: op      
+  MSTR_MobIgnore.magmacube:   
+   default: op      
+  MSTR_MobIgnore.silverfish:   
+   default: op      
+  MSTR_MobIgnore.skeleton:   
+   default: op      
+  MSTR_MobIgnore.slime:   
+   default: op      
+  MSTR_MobIgnore.spider:   
+   default: op      
+  MSTR_MobIgnore.zombie:   
+   default: op      
+  MSTR_MobIgnore.blaze:   
    default: op   
 commands:     

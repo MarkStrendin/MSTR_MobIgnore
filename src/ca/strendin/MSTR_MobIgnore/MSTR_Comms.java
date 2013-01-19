@@ -51,7 +51,7 @@ public class MSTR_Comms {
     }
     
     public static void logThis(String message) {
-        log.info("[MSTR_MobHeads] " + message);
+        log.info("[MSTR_MobIgnore] " + message);
     }
     
     public static void permDenyMsg(Player tothisplayer) {
